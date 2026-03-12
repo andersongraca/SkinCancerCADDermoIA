@@ -53,9 +53,7 @@ O **SkinCancerCADDermoIA** é uma plataforma avançada de auxílio ao diagnósti
    pnpm dev
    ```
 
-### 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 Desenvolvido por [Anderson](mailto:andersonga@dcomp.ufs.br).
